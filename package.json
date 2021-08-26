@@ -1,0 +1,16 @@
+{
+  "name": "workspace_test",
+  "version": "1.0.0",
+  "description": "",
+  "workspaces": ["first","second"],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"folder name: main"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
